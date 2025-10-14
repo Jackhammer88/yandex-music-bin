@@ -1,5 +1,5 @@
 pkgname=yandex-music-bin
-pkgver=5.71.2     # текущая версия приложения
+pkgver=5.72.5     # текущая версия приложения
 pkgrel=1
 pkgdesc="Yandex Music desktop (repacked from .deb)"
 arch=('x86_64')
@@ -15,7 +15,7 @@ depends=(
   'at-spi2-core'
   'util-linux-libs'
   'libsecret'
-  'hicolor-icon-theme'   # не обязателен, но хорош для иконок
+  'hicolor-icon-theme'
 )
 
 optdepends=(
