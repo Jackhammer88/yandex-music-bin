@@ -1,6 +1,5 @@
 pkgname=yandex-music-bin
-pkgver=5.73.1     # текущая версия приложения
-https://music-desktop-application.s3.yandex.net/stable/Yandex_Music_amd64_5.73.1.deb
+pkgver=5.74.0     # текущая версия приложения
 pkgrel=1
 pkgdesc="Yandex Music desktop (repacked from .deb)"
 arch=('x86_64')
