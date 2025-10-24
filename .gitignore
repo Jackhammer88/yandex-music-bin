@@ -1,0 +1,9 @@
+./get-latest-version.sh
+./src
+./src/**
+./pkg
+./pkg/**
+./*.deb
+./*.xz
+./*.gz
+./*.zst

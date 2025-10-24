@@ -1,7 +1,7 @@
 pkgbase = yandex-music-bin
 	pkgdesc = Yandex Music desktop (repacked from .deb)
 	pkgver = 5.74.1
-	pkgrel = 1
+	pkgrel = 2
 	url = https://music.yandex.ru/
 	install = yandex-music-bin.install
 	arch = x86_64
