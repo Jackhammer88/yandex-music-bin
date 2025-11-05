@@ -1,5 +1,5 @@
 pkgname=yandex-music-bin
-pkgver=5.74.1     # текущая версия приложения
+pkgver=5.75.2     # текущая версия приложения
 pkgrel=2
 pkgdesc="Yandex Music desktop (repacked from .deb)"
 arch=('x86_64')
